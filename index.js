@@ -5,7 +5,7 @@ Examples of how to run with node when you are locate inside the test_scores fold
 node index.js 89 100 92 93
 */
 
-// Array that stores the scores entered by the user.
+// Array that stores the scores entered by the user. 
 const scores = [];
 
 /**
